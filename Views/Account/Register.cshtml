@@ -1,0 +1,42 @@
+﻿@using Bilet_15.ViewModels.Account
+@model RegisterVm
+
+
+<div class="container mt-5" style="margin:100px">
+
+    <form method="post">
+        <div asp-validation-summary="All"></div>
+        <div class="mb-3">
+            <label asp-for="Name" class="form-label">Fullname</label>
+            <input asp-for="Name" class="form-control">
+            <span asp-validation-for="Name"></span>
+        </div><div class="mb-3">
+            <label asp-for="Surname" class="form-label">Surname</label>
+            <input asp-for="Surname" class="form-control">
+            <span asp-validation-for="Surname"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="UserName" class="form-label">UserName</label>
+            <input asp-for="UserName" class="form-control">
+            <span asp-validation-for="UserName"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="Email" class="form-label">Email</label>
+            <input asp-for="Email" class="form-control">
+            <span asp-validation-for="Email"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="Password" class="form-label">Password</label>
+            <input asp-for="Password" class="form-control">
+            <span asp-validation-for="Password"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="ConfirmPassword" class="form-label">ConfirmPassword</label>
+            <input asp-for="ConfirmPassword" class="form-control">
+            <span asp-validation-for="ConfirmPassword"></span>
+        </div>
+
+        <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
+
+</div>

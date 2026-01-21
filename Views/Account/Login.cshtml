@@ -1,0 +1,26 @@
+﻿@using Bilet_15.ViewModels.Account
+@model LoginVm
+
+
+<div class="container mt-5" style="margin:100px">
+
+    <form method="post">
+        <div class="mb-3">
+            <label asp-for="UserNameOrEmail" class="form-label">UserNameOrEmail</label>
+            <input asp-for="UserNameOrEmail" class="form-control">
+            <span asp-validation-for="UserNameOrEmail"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="Password" class="form-label">Password</label>
+            <input asp-for="Password" class="form-control">
+            <span asp-validation-for="Password"></span>
+        </div>
+        <div class="mb-3 form-check">
+            <input asp-for="IsPersisted" class="form-check-input">
+            <label asp-for="IsPersisted" class="form-check-label">Remember Me</label>
+        </div>
+
+        <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
+
+</div>

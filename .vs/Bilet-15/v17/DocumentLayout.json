@@ -1,0 +1,615 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\classtime\\Desktop\\Bilet-15\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9ABBA86A-240D-4A96-9154-5C5263F3544D}|Bilet-15.csproj|c:\\users\\classtime\\desktop\\bilet-15\\bilet-15.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9ABBA86A-240D-4A96-9154-5C5263F3544D}|Bilet-15.csproj|solutionrelative:bilet-15.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ABBA86A-240D-4A96-9154-5C5263F3544D}|Bilet-15.csproj|c:\\users\\classtime\\desktop\\bilet-15\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9ABBA86A-240D-4A96-9154-5C5263F3544D}|Bilet-15.csproj|solutionrelative:views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ABBA86A-240D-4A96-9154-5C5263F3544D}|Bilet-15.csproj|c:\\users\\classtime\\desktop\\bilet-15\\viewmodels\\account\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ABBA86A-240D-4A96-9154-5C5263F3544D}|Bilet-15.csproj|solutionrelative:viewmodels\\account\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ABBA86A-240D-4A96-9154-5C5263F3544D}|Bilet-15.csproj|c:\\users\\classtime\\desktop\\bilet-15\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ABBA86A-240D-4A96-9154-5C5263F3544D}|Bilet-15.csproj|solutionrelative:models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ABBA86A-240D-4A96-9154-5C5263F3544D}|Bilet-15.csproj|c:\\users\\classtime\\desktop\\bilet-15\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9ABBA86A-240D-4A96-9154-5C5263F3544D}|Bilet-15.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ABBA86A-240D-4A96-9154-5C5263F3544D}|Bilet-15.csproj|c:\\users\\classtime\\desktop\\bilet-15\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ABBA86A-240D-4A96-9154-5C5263F3544D}|Bilet-15.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ABBA86A-240D-4A96-9154-5C5263F3544D}|Bilet-15.csproj|c:\\users\\classtime\\desktop\\bilet-15\\viewmodels\\account\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ABBA86A-240D-4A96-9154-5C5263F3544D}|Bilet-15.csproj|solutionrelative:viewmodels\\account\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ABBA86A-240D-4A96-9154-5C5263F3544D}|Bilet-15.csproj|c:\\users\\classtime\\desktop\\bilet-15\\areas\\admin\\views\\worker\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9ABBA86A-240D-4A96-9154-5C5263F3544D}|Bilet-15.csproj|solutionrelative:areas\\admin\\views\\worker\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ABBA86A-240D-4A96-9154-5C5263F3544D}|Bilet-15.csproj|c:\\users\\classtime\\desktop\\bilet-15\\areas\\admin\\views\\worker\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9ABBA86A-240D-4A96-9154-5C5263F3544D}|Bilet-15.csproj|solutionrelative:areas\\admin\\views\\worker\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ABBA86A-240D-4A96-9154-5C5263F3544D}|Bilet-15.csproj|c:\\users\\classtime\\desktop\\bilet-15\\areas\\admin\\controllers\\workercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ABBA86A-240D-4A96-9154-5C5263F3544D}|Bilet-15.csproj|solutionrelative:areas\\admin\\controllers\\workercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ABBA86A-240D-4A96-9154-5C5263F3544D}|Bilet-15.csproj|c:\\users\\classtime\\desktop\\bilet-15\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9ABBA86A-240D-4A96-9154-5C5263F3544D}|Bilet-15.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ABBA86A-240D-4A96-9154-5C5263F3544D}|Bilet-15.csproj|c:\\users\\classtime\\desktop\\bilet-15\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9ABBA86A-240D-4A96-9154-5C5263F3544D}|Bilet-15.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ABBA86A-240D-4A96-9154-5C5263F3544D}|Bilet-15.csproj|c:\\users\\classtime\\desktop\\bilet-15\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9ABBA86A-240D-4A96-9154-5C5263F3544D}|Bilet-15.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ABBA86A-240D-4A96-9154-5C5263F3544D}|Bilet-15.csproj|c:\\users\\classtime\\desktop\\bilet-15\\areas\\admin\\viewmodels\\worker\\updateworkervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ABBA86A-240D-4A96-9154-5C5263F3544D}|Bilet-15.csproj|solutionrelative:areas\\admin\\viewmodels\\worker\\updateworkervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ABBA86A-240D-4A96-9154-5C5263F3544D}|Bilet-15.csproj|c:\\users\\classtime\\desktop\\bilet-15\\areas\\admin\\viewmodels\\worker\\createworkervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ABBA86A-240D-4A96-9154-5C5263F3544D}|Bilet-15.csproj|solutionrelative:areas\\admin\\viewmodels\\worker\\createworkervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ABBA86A-240D-4A96-9154-5C5263F3544D}|Bilet-15.csproj|c:\\users\\classtime\\desktop\\bilet-15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ABBA86A-240D-4A96-9154-5C5263F3544D}|Bilet-15.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ABBA86A-240D-4A96-9154-5C5263F3544D}|Bilet-15.csproj|c:\\users\\classtime\\desktop\\bilet-15\\utilities\\enum\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ABBA86A-240D-4A96-9154-5C5263F3544D}|Bilet-15.csproj|solutionrelative:utilities\\enum\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ABBA86A-240D-4A96-9154-5C5263F3544D}|Bilet-15.csproj|c:\\users\\classtime\\desktop\\bilet-15\\utilities\\enum\\filesize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ABBA86A-240D-4A96-9154-5C5263F3544D}|Bilet-15.csproj|solutionrelative:utilities\\enum\\filesize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ABBA86A-240D-4A96-9154-5C5263F3544D}|Bilet-15.csproj|c:\\users\\classtime\\desktop\\bilet-15\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ABBA86A-240D-4A96-9154-5C5263F3544D}|Bilet-15.csproj|solutionrelative:areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ABBA86A-240D-4A96-9154-5C5263F3544D}|Bilet-15.csproj|c:\\users\\classtime\\desktop\\bilet-15\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ABBA86A-240D-4A96-9154-5C5263F3544D}|Bilet-15.csproj|solutionrelative:dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ABBA86A-240D-4A96-9154-5C5263F3544D}|Bilet-15.csproj|c:\\users\\classtime\\desktop\\bilet-15\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ABBA86A-240D-4A96-9154-5C5263F3544D}|Bilet-15.csproj|solutionrelative:models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\classtime\\Desktop\\Bilet-15\\Migrations\\20260121140548_Bilet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20260121140548_Bilet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ABBA86A-240D-4A96-9154-5C5263F3544D}|Bilet-15.csproj|c:\\users\\classtime\\desktop\\bilet-15\\models\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ABBA86A-240D-4A96-9154-5C5263F3544D}|Bilet-15.csproj|solutionrelative:models\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ABBA86A-240D-4A96-9154-5C5263F3544D}|Bilet-15.csproj|c:\\users\\classtime\\desktop\\bilet-15\\areas\\admin\\views\\worker\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9ABBA86A-240D-4A96-9154-5C5263F3544D}|Bilet-15.csproj|solutionrelative:areas\\admin\\views\\worker\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ABBA86A-240D-4A96-9154-5C5263F3544D}|Bilet-15.csproj|c:\\users\\classtime\\desktop\\bilet-15\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9ABBA86A-240D-4A96-9154-5C5263F3544D}|Bilet-15.csproj|solutionrelative:areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ABBA86A-240D-4A96-9154-5C5263F3544D}|Bilet-15.csproj|c:\\users\\classtime\\desktop\\bilet-15\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9ABBA86A-240D-4A96-9154-5C5263F3544D}|Bilet-15.csproj|solutionrelative:areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ABBA86A-240D-4A96-9154-5C5263F3544D}|Bilet-15.csproj|c:\\users\\classtime\\desktop\\bilet-15\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ABBA86A-240D-4A96-9154-5C5263F3544D}|Bilet-15.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ABBA86A-240D-4A96-9154-5C5263F3544D}|Bilet-15.csproj|c:\\users\\classtime\\desktop\\bilet-15\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9ABBA86A-240D-4A96-9154-5C5263F3544D}|Bilet-15.csproj|solutionrelative:areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ABBA86A-240D-4A96-9154-5C5263F3544D}|Bilet-15.csproj|c:\\users\\classtime\\desktop\\bilet-15\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9ABBA86A-240D-4A96-9154-5C5263F3544D}|Bilet-15.csproj|solutionrelative:areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ABBA86A-240D-4A96-9154-5C5263F3544D}|Bilet-15.csproj|c:\\users\\classtime\\desktop\\bilet-15\\wwwroot\\admin\\css\\sb-admin-2.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{9ABBA86A-240D-4A96-9154-5C5263F3544D}|Bilet-15.csproj|solutionrelative:wwwroot\\admin\\css\\sb-admin-2.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ABBA86A-240D-4A96-9154-5C5263F3544D}|Bilet-15.csproj|c:\\users\\classtime\\desktop\\bilet-15\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9ABBA86A-240D-4A96-9154-5C5263F3544D}|Bilet-15.csproj|solutionrelative:scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ABBA86A-240D-4A96-9154-5C5263F3544D}|Bilet-15.csproj|c:\\users\\classtime\\desktop\\bilet-15\\utilities\\extensions\\validator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ABBA86A-240D-4A96-9154-5C5263F3544D}|Bilet-15.csproj|solutionrelative:utilities\\extensions\\validator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ABBA86A-240D-4A96-9154-5C5263F3544D}|Bilet-15.csproj|c:\\users\\classtime\\desktop\\bilet-15\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9ABBA86A-240D-4A96-9154-5C5263F3544D}|Bilet-15.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\classtime\\Desktop\\Bilet-15\\Migrations\\20260121105034_add-migration Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20260121105034_add-migration Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ABBA86A-240D-4A96-9154-5C5263F3544D}|Bilet-15.csproj|c:\\users\\classtime\\desktop\\bilet-15\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9ABBA86A-240D-4A96-9154-5C5263F3544D}|Bilet-15.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 335,
+          "SelectedChildIndex": 31,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Bilet-15\\Utilities\\Enum\\UserRole.cs",
+              "RelativeDocumentMoniker": "Utilities\\Enum\\UserRole.cs",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\Bilet-15\\Utilities\\Enum\\UserRole.cs",
+              "RelativeToolTip": "Utilities\\Enum\\UserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T14:33:17.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Bilet-15\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\Bilet-15\\Models\\AppUser.cs",
+              "RelativeToolTip": "Models\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T14:31:21.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Bilet-15\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\Bilet-15\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-21T14:30:01.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Bilet-15\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\Bilet-15\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-21T14:29:44.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Bilet-15\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\Bilet-15\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAmwGkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T14:28:40.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegisterVm.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Bilet-15\\ViewModels\\Account\\RegisterVm.cs",
+              "RelativeDocumentMoniker": "ViewModels\\Account\\RegisterVm.cs",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\Bilet-15\\ViewModels\\Account\\RegisterVm.cs",
+              "RelativeToolTip": "ViewModels\\Account\\RegisterVm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T14:26:25.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginVm.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Bilet-15\\ViewModels\\Account\\LoginVm.cs",
+              "RelativeDocumentMoniker": "ViewModels\\Account\\LoginVm.cs",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\Bilet-15\\ViewModels\\Account\\LoginVm.cs",
+              "RelativeToolTip": "ViewModels\\Account\\LoginVm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T14:25:54.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20260121140548_Bilet.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Bilet-15\\Migrations\\20260121140548_Bilet.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260121140548_Bilet.cs",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\Bilet-15\\Migrations\\20260121140548_Bilet.cs",
+              "RelativeToolTip": "Migrations\\20260121140548_Bilet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T14:05:48.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "sb-admin-2.css",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Bilet-15\\wwwroot\\admin\\css\\sb-admin-2.css",
+              "RelativeDocumentMoniker": "wwwroot\\admin\\css\\sb-admin-2.css",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\Bilet-15\\wwwroot\\admin\\css\\sb-admin-2.css",
+              "RelativeToolTip": "wwwroot\\admin\\css\\sb-admin-2.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-01-21T13:22:05.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UpdateWorkerVm.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Bilet-15\\Areas\\Admin\\ViewModels\\Worker\\UpdateWorkerVm.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\ViewModels\\Worker\\UpdateWorkerVm.cs",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\Bilet-15\\Areas\\Admin\\ViewModels\\Worker\\UpdateWorkerVm.cs",
+              "RelativeToolTip": "Areas\\Admin\\ViewModels\\Worker\\UpdateWorkerVm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T11:58:43.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CreateWorkerVm.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Bilet-15\\Areas\\Admin\\ViewModels\\Worker\\CreateWorkerVm.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\ViewModels\\Worker\\CreateWorkerVm.cs",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\Bilet-15\\Areas\\Admin\\ViewModels\\Worker\\CreateWorkerVm.cs",
+              "RelativeToolTip": "Areas\\Admin\\ViewModels\\Worker\\CreateWorkerVm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T11:58:15.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Bilet-15\\Areas\\Admin\\Views\\Worker\\Update.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Worker\\Update.cshtml",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\Bilet-15\\Areas\\Admin\\Views\\Worker\\Update.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Worker\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-21T11:57:20.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Bilet-15\\Areas\\Admin\\Views\\Worker\\Create.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Worker\\Create.cshtml",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\Bilet-15\\Areas\\Admin\\Views\\Worker\\Create.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Worker\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-21T11:56:58.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Validator.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Bilet-15\\Utilities\\Extensions\\Validator.cs",
+              "RelativeDocumentMoniker": "Utilities\\Extensions\\Validator.cs",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\Bilet-15\\Utilities\\Extensions\\Validator.cs",
+              "RelativeToolTip": "Utilities\\Extensions\\Validator.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA5wCIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T11:18:45.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FileSize.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Bilet-15\\Utilities\\Enum\\FileSize.cs",
+              "RelativeDocumentMoniker": "Utilities\\Enum\\FileSize.cs",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\Bilet-15\\Utilities\\Enum\\FileSize.cs",
+              "RelativeToolTip": "Utilities\\Enum\\FileSize.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T11:18:23.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Bilet-15\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\Bilet-15\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-21T11:05:00.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Bilet-15\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\Bilet-15\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-21T11:04:47.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Bilet-15\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\Bilet-15\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AgIAAJkBAAAAAAAAAAAuwKkBAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-21T11:04:36.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Bilet-15\\Areas\\Admin\\Views\\Worker\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Worker\\Index.cshtml",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\Bilet-15\\Areas\\Admin\\Views\\Worker\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Worker\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACUAAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-21T10:55:30.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WorkerController.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Bilet-15\\Areas\\Admin\\Controllers\\WorkerController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\WorkerController.cs",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\Bilet-15\\Areas\\Admin\\Controllers\\WorkerController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\WorkerController.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAIwA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T10:55:13.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Bilet-15\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\Bilet-15\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAEsBAAAAAAAAAAAqwFoBAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-21T10:54:46.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Bilet-15\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\Bilet-15\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T10:53:10.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Bilet-15\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\Bilet-15\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-01-21T10:52:29.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "20260121105034_add-migration Init.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Bilet-15\\Migrations\\20260121105034_add-migration Init.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260121105034_add-migration Init.cs",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\Bilet-15\\Migrations\\20260121105034_add-migration Init.cs",
+              "RelativeToolTip": "Migrations\\20260121105034_add-migration Init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T10:50:35.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Bilet-15\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\Bilet-15\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-21T10:38:10.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Bilet-15\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\Bilet-15\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-21T10:37:47.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Bilet-15\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\Bilet-15\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-21T10:37:45.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Bilet-15\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\Bilet-15\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T10:24:26.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Bilet-15\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\Bilet-15\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAAHYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-21T10:21:07.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Bilet-15\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\Bilet-15\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-21T10:13:24.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Bilet-15\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\Bilet-15\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "DAL\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T10:12:22.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bilet-15",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Bilet-15\\Bilet-15.csproj",
+              "RelativeDocumentMoniker": "Bilet-15.csproj",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\Bilet-15\\Bilet-15.csproj",
+              "RelativeToolTip": "Bilet-15.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-21T10:11:58.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Bilet-15\\Models\\Worker.cs",
+              "RelativeDocumentMoniker": "Models\\Worker.cs",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\Bilet-15\\Models\\Worker.cs",
+              "RelativeToolTip": "Models\\Worker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T10:11:32.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Bilet-15\\Models\\Base\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Models\\Base\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\Bilet-15\\Models\\Base\\BaseEntity.cs",
+              "RelativeToolTip": "Models\\Base\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T10:10:44.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Bilet-15\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\Bilet-15\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAgwBMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T10:08:50.52Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
